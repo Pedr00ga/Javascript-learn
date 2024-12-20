@@ -1,0 +1,5 @@
+
+const amigos = ["Kevin", "Shev", "Pirelli"]
+
+for (let i of amigos)
+    console.log(i)
