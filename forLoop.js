@@ -1,5 +1,5 @@
 
 
-for (i = 1;i <=1000;i+10){
+for (i = 1;i <=50;i+1){
     console.log("Numero" , i);
 }
